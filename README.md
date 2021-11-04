@@ -13,6 +13,7 @@
   - Any method type must use any type of identification (Choose at least 2 for each one: DNI, MFA, email, SMS, fingerprint)
   
 ## Tips:
+- Try don't ask me your doubts unless it be extremely necessary, google your issues or doubts.
 - I don't need the whole implementation behind every method but at least try to simulate every one them.
 - If you don't understand my earlier explanation try to Google the concepts you don't understand. Ex: "Python SOLID principles", "Composition over inheritance Python", etc. Try to use english to search it instead of spanish, you will find better results (:
 - The limit time it's until 23:00 of today, tomorrow will review it together.
