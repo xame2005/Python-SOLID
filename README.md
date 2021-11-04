@@ -3,7 +3,7 @@
 ## Make a Python program with the following requirements:
 
 - Do it without using any __main__ function or global code. Every test and instance of the program it will be using Pytest with TDD approach.
-- You must use SOLID principles in all your code (Single responsability, Open for extension/Closed for modification, Liskov Principle, Interface Segregation and Dependecy Injeyction).
+- You must use SOLID principles in all your code (Single responsability, Open for extension/Closed for modification, Liskov Principle, Interface Segregation and Dependecy Injection).
 - You must use Composition over Inheritance principle.
 - Create an app of a Fast Food Restaurant that contains the following:
   - Must allow any number of meal (At least two like: Pizza and burger), every type of meal must allow any subtype of it (At least 2 of each one, ex: Hawaiian pizza, Arrachera burger).
