@@ -17,4 +17,4 @@
 - I don't need the whole implementation behind every method but at least try to simulate every one of them.
 - If you don't understand my earlier explanation try to Google the concepts you don't understand. Ex: "Python SOLID principles", "Composition over inheritance Python", etc. Try to use english to search it instead of spanish, you will find better results (:
 - The limit time it's until 23:00 of today, tomorrow will review it together.
-- Whoever has the best code I will deposit the money for a Esquite (or Elote en vaso) xD (It only applies to one person, if there are two people, the prize will be divided).
+- Whoever has the best code I will deposit the money for a Esquite (or Elote en vaso) xD (It only applies to one person, if there are two or more people, the prize will be divided).
