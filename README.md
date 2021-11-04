@@ -8,7 +8,7 @@
 - Create an app of a Fast Food Restaurant that contains the following:
   - Must allow any number of meal (At least two like: Pizza and burger), every type of meal must allow any subtype of it (At least 2 of each one, ex: Hawaiian pizza, Arrachera burger).
   - Deliver a ticket with the count of every dish, date, prices and total.
-  - It allow any type of tickets (Example: In place or Delivery).
+  - It must allow any type of tickets (Example: In place or Delivery).
   - Any order can be payed with any method (Choose at least 3: Credit/Debit Card (This count as one), Applepay, Paypal, Cryptocurrencies).
   - Any method type must use any type of identification (Choose at least 2 for each one: DNI, MFA, email, SMS, fingerprint)
   
