@@ -2,7 +2,7 @@
 
 ## Make a Python program with the following requirements:
 
-- Do it without using any __main__ function or global code. Every test and instance of the program it will be using Pytest with TDD approach.
+- Do it without using any __ main __ function or global code. Every test and instance of the program it will be using Pytest with TDD approach.
 - You must use SOLID principles in all your code (Single responsability, Open for extension/Closed for modification, Liskov Principle, Interface Segregation and Dependecy Injection).
 - You must use Composition over Inheritance principle.
 - Create an app of a Fast Food Restaurant that contains the following:
@@ -13,7 +13,7 @@
   - Any method type must use any type of identification (Choose at least 2 for each one: DNI, MFA, email, SMS, fingerprint)
   
 ## Tips:
-- Try to not ask me your doubts unless it be extremely necessary, google your issues or doubts.
+- Try to not ask me your doubts unless it is extremely necessary, google your issues or doubts.
 - I don't need the whole implementation behind every method but at least try to simulate every one them.
 - If you don't understand my earlier explanation try to Google the concepts you don't understand. Ex: "Python SOLID principles", "Composition over inheritance Python", etc. Try to use english to search it instead of spanish, you will find better results (:
 - The limit time it's until 23:00 of today, tomorrow will review it together.
